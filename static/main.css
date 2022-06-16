@@ -7,12 +7,12 @@ body {
 
 h1 {
 	text-align: center;
-	color: #fff;
+	color: #FFF;
 }
 
 p {
 	text-align: center;
-	color: #fff;
+	color: #FFF;
 }
 
 img {
@@ -30,9 +30,47 @@ ul {
 li {
 	padding: 20px;
 	margin: 30px;
-	color: #fff;
+	color: #FFF;
 	list-style-type: none;
 	font-size: 20px;
+}
+
+div {	
+	color: #FFF;
+	--display: flex;
+	justify-content: center;
+	padding: 20px;	
+}
+
+label {
+	color: #FFF;
+	display: flex;
+	justify-content: center;
+}
+
+div2 {	
+	color: #FFF;
+	display: flex;
+	justify-content: center;
+	padding: 20px;
+}
+
+button {
+	display: flex;	
+	justify-content: center;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+
+input {	
+	display: flex;		
+	justify-content: center;
+	margin: 0 auto;
+}
+
+label {
+	color: #FFF;
 }
 
 a {
